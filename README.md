@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/32135624/README.md)
 # Vendetta Scripts — Free Roblox Scripts
 
-Three free Roblox scripts, released with full source. No obfuscation, no dependencies, no account needed — download them, read them, use them in whatever you're building.
+Three free Roblox scripts, released with full, readable source. No dependencies, no account needed — download them, read them, use them in whatever you're building.
 
 The rest of the catalogue — larger Roblox systems and FiveM QBCore resources — lives at **[venscripts.dev](https://venscripts.dev)**.
+
+💬 **Join the Discord** for help, updates and new free scripts: [discord.gg/9VaUnWTahk](https://discord.gg/9VaUnWTahk)
 
 ---
 
@@ -105,6 +106,6 @@ Released under the [MIT License](LICENSE). Use them in personal or commercial pr
 
 ## Support
 
-Issues and pull requests are welcome on this repo.
+Issues and pull requests are welcome on this repo, or ask in the [Discord](https://discord.gg/9VaUnWTahk).
 
 For the paid scripts, support comes directly from me — see [venscripts.dev](https://venscripts.dev).
